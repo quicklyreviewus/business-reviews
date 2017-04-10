@@ -1,14 +1,5 @@
 # business-reviews
 
-=== Business Reviews ===
-Contributors: QuicklyReviewUs.com
-Tags: reviews, ratings, business reviews, reputation management, business ratings, Yelp, Facebook, Google, TripAdvisor, Amazon, YP.com, Better Business Bureau, Trust Pilot, Zillow, AirBnB, Trulia
-Requires at least: 3.0
-Tested up to: 4.7.3
-Stable tag: 2.5.0
-License: GPLv2 or later
-License URI: http://www.gnu.org/licenses/gpl-2.0.html
-
 Run unlimited free business review reports showing reviews across all major sites, your aggregate rating, public sentiment about your company and much more.
 
 == Description ==
