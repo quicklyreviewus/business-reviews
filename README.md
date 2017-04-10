@@ -24,7 +24,7 @@ g) <strong>Review Breakdown Per Site</strong> - This report shows you how many r
 
 <strong>Please Note:</strong> For the month of April Wordpress user get a 51% discount on Premium Plugin Functionality.
 
-[youtube https://www.youtube.com/watch?v=m1Sm7Gpim-8]
+https://www.youtube.com/watch?v=m1Sm7Gpim-8
 
 <strong>Review Page</strong> - You will get your own Branded Review Page. Every aspect of this page is completely customizable. You can embed your Review Page with a short code into any page or post on your website. 
 
